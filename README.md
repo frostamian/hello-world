@@ -10,4 +10,5 @@ fari is testing
 fari is pulling
 fari fixed & ready to release
 ready for v5.1
+ready v5.2
 >>>>>>> master
